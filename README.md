@@ -5,6 +5,8 @@ In here we provide a dataset with measurements for friction between:
 1. DragonSkin10-PLA
 2. Smooth-on Sil 950-PLA
 
+Used for the article submitted to Robotics and Automation Letters titled: "Development of a Dual Function Joint Modular Soft Actuator and its Evaluation using a Novel Dummy Finger Joint-Soft Actuator Complex Model"
+
 Experimental Conditions are detailed on: ExperimentalConditions.md
 
 Experimental Measurements of the Coefficient for 1. and 2. are included in: CoF-Measurements.csv
