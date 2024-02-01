@@ -1,0 +1,21 @@
+Experimental Conditions:
+
+Nanotribometer
+
+Type of Movement: Rotative
+Cantilever: High Load (HL-S228)
+Static Partner: PLA 4x4mm Plate
+Sequence Number 100
+Load 10-1000mN
+Speed: 10mm/s
+Stop Condition/Seq: 30 Cycles
+
+Tribometer
+
+Type of Movement: Rotative
+Cantilever: N/A
+Static Partner: PLA 4x4mm Plate
+Sequence Number 100
+Load 0.25, 1, 2, 3, 4, 5, 6mN
+Speed: 10mm/s
+Stop Condition/Seq: 30 Cycles
