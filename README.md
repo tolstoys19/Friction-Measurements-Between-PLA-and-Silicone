@@ -17,13 +17,4 @@ Please reference the following article when using the data from this repository:
 
 https://ieeexplore.ieee.org/abstract/document/10471884
 
-@ARTICLE{10471884,
-  author={Tortós-Vinocour, Pablo E. and Kokubu, Shota and Matsunaga, Fuko and Lu, Yuxi and Zhou, Zhongchao and Gomez-Tames, Jose and Yu, Wenwei},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Development of a Dual Function Joint Modular Soft Actuator and its Evaluation using a Novel Dummy Finger Joint-Soft Actuator Complex Model}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-8},
-  keywords={Actuators;Soft robotics;Bending;Fingers;Finite element analysis;Force;Elongation;Soft Robots Materials and Design;Modeling;Control and Learning for Soft Robots;Rehabilitation Robotics},
-  doi={10.1109/LRA.2024.3376975}}
+P. E. Tortós-Vinocour et al., "Development of a Dual Function Joint Modular Soft Actuator and its Evaluation using a Novel Dummy Finger Joint-Soft Actuator Complex Model," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3376975. 
